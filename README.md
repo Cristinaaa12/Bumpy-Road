@@ -1,4 +1,4 @@
-# Game 2D Pixel Art — Windows Build
+# Game 2D Pixel Art
 
 **Download**
 - Go to the repository **Releases** page and download: **`Game 2D Pixel Art.7z`**.
