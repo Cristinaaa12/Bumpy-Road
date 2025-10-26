@@ -1,4 +1,4 @@
-# Game 2D Pixel Art
+# Bumpy Road
 
 **Download**
 - Go to the repository **Releases** page and download: **`Game 2D Pixel Art.7z`**.
